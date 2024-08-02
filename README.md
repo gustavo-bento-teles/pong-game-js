@@ -15,4 +15,4 @@
 #### O código está todo comentado
 
 ## Autores
-#### Somente eu trabalhei neste projeto, procurei copiar a lógica do professor (autor do código) uma forma que fizesse sentido pra mim
+#### Somente eu trabalhei neste projeto, procurei copiar a lógica do professor (autor do código) de uma forma que fizesse sentido pra mim
