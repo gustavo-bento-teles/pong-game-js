@@ -1,7 +1,6 @@
 # Pong Game in JS
 ## Introdução
 - Feito com base em um curso do Alura que assisti sobre JavaScript
-- Feito no editor de código p5.js
 - É um simples projeto para praticar lógica e conhecimentos básicos em JavaScript
 
 ## Uso
